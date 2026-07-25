@@ -65,7 +65,7 @@
     },
     {
       "provider": "xalaflix",
-      "link": "https://xalaflix.cv"
+      "link": ""
     },
     {
       "provider": "nortorrent",
@@ -90,6 +90,28 @@
     {
 "provider": "movix",
       "link": "https://movix.blog/"
-}
+
+    },
+    {
+      "provider": "senpai-stream",
+      "link": "https://senpai-stream.wiki/"
+    },
+    {
+      "provider": "streamflix",
+      "link": "https://streamflix.mom/"
+    },
+    {
+      "provider": "noxpulse",
+      "link": "https://noxpulse.cc/"
+
+    },
+    {
+      "provider": "FR-Anime",
+      "link": "https://franime.fr/"
+    },
+    {
+      "provider": "Zenix",
+      "link": "https://zenix.best/"
+        
 ]
 
